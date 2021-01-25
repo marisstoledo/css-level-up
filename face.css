@@ -1,0 +1,38 @@
+#container {
+    postion: relative;
+    width:600px;
+    height;
+    background:orange;
+}
+.child {
+    position: absolute;
+    width: 50px;
+    height: 200px
+}
+#top-left{
+    background:red;
+    top: 10px;
+    left:25 px;
+}
+#top-right{
+    background:red;
+    top: 10px;
+    right:25 px;
+}
+
+#center {
+background: yellow;
+}
+#bottom-center {
+background:black;
+bottom: 10px;
+}
+#center-left{
+background: white ;
+left: 25px ;
+}
+#center-right{
+background:white;
+right: 25px
+
+}
